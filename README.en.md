@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3k0t?tab=repositories)
 [![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZZmCU2KUNE)
-[![Mesa Azul](https://img.shields.io/badge/Mesa_Azul-Business_software-1671B8?style=for-the-badge)](https://mesaazul.com.br)
 [![OTClient V9](https://img.shields.io/badge/OTClient_V9-Follow_development-433E7C?style=for-the-badge)](https://github.com/l3k0t/OTClient-V9-Showcase)
 
 [🇧🇷 Português](README.md) · **🇺🇸 English**
@@ -54,7 +53,7 @@ Through **persistence**, study, trial and error, fixing mistakes, and starting o
 ## Business projects
 
 ### 🔷 Mesa Azul — digital menus and business management
-**[mesaazul.com.br](https://mesaazul.com.br)**
+**Mesa Azul project**
 
 My own company/project focused on digital menus, management tools, multi-tenant systems, subscriptions and operational automation for establishments.
 
@@ -124,7 +123,7 @@ I'm not interested in insults, harassment, or conversations intended only to was
 
 <div align="center">
 
-[**Discord — Contact**](https://discord.gg/ZZmCU2KUNE) · [**GitHub projects**](https://github.com/l3k0t?tab=repositories) · [**Mesa Azul**](https://mesaazul.com.br) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
+[**Discord — Contact**](https://discord.gg/ZZmCU2KUNE) · [**GitHub projects**](https://github.com/l3k0t?tab=repositories) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
 
 ⭐ [**Star OTClient V9 Showcase**](https://github.com/l3k0t/OTClient-V9-Showcase) and enable **Watch** for future updates.
 
