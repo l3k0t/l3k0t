@@ -7,6 +7,7 @@
 *Programming is only one of the ways I turn ideas into practical solutions.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3k0t?tab=repositories)
+[![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZZmCU2KUNE)
 [![Mesa Azul](https://img.shields.io/badge/Mesa_Azul-Business_software-1671B8?style=for-the-badge)](https://mesaazul.com.br)
 [![OTClient V9](https://img.shields.io/badge/OTClient_V9-Follow_development-433E7C?style=for-the-badge)](https://github.com/l3k0t/OTClient-V9-Showcase)
 
@@ -23,6 +24,18 @@ I'm **L3K0T**, a developer and technology creator working across **business soft
 I have over a decade of public activity in the **OTServ/Tibia** community, but my work goes far beyond games or coding. I also build and maintain solutions for **restaurants, delivery services, business operations, websites, and other industries**, and explore **robotics, electronics, and hardware** through independent projects.
 
 I work across the full lifecycle: understanding the problem, creating the architecture, developing integrations, deploying to servers, configuring security, fixing issues, and maintaining the system.
+
+## 🌱 My story — persistence came before experience
+
+**I didn't start out knowing how to code or how computers worked.** I was a complete beginner, curious and eager to learn. I made plenty of mistakes, damaged Windows installations and even computers while trying to figure things out. I also had some frightening experiences working with hardware, which taught me to take safety seriously.
+
+My journey hasn't been easy or straightforward. **I went through a deeply difficult period in my personal life, and I prefer not to go into detail.** That experience is part of my history, but it doesn't define everything I am or everything I can still build.
+
+Through **persistence**, study, trial and error, fixing mistakes, and starting over, I've made progress from exploring computers to developing software, operating servers, creating business systems, working with security and automation, and pursuing robotics.
+
+**I want to leave something valuable for the community:** turn what I've learned into practical solutions, professional services, and knowledge I can also share voluntarily. I don't claim to know everything; I intend to keep learning and help others move forward.
+
+> *You don't need to know everything when you start. You need the willingness to keep learning and building.*
 
 ## Areas of work
 
@@ -82,6 +95,14 @@ My public [TibiaKing profile](https://tibiaking.com/profile/76262-l3k0t/) dates 
 
 ---
 
+## 💬 Official contact — Discord
+
+For project proposals, development work, integrations, technical support, or collaboration, reach me through my **official Discord**:
+
+**[Contact me on Discord](https://discord.gg/ZZmCU2KUNE)**
+
+Please provide a clear description of what you need, the context of your project, and any steps you've already taken.
+
 ## Professional contact and respect
 
 **My time matters, and so does yours.** If you reach out, please be **respectful, clear, and specific about the purpose of the conversation**. I work on different projects and have responsibilities beyond programming.
@@ -90,7 +111,7 @@ I'm not interested in insults, harassment, or conversations intended only to was
 
 <div align="center">
 
-[**GitHub projects**](https://github.com/l3k0t?tab=repositories) · [**Mesa Azul**](https://mesaazul.com.br) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
+[**Discord — Contact**](https://discord.gg/ZZmCU2KUNE) · [**GitHub projects**](https://github.com/l3k0t?tab=repositories) · [**Mesa Azul**](https://mesaazul.com.br) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
 
 ⭐ [**Star OTClient V9 Showcase**](https://github.com/l3k0t/OTClient-V9-Showcase) and enable **Watch** for future updates.
 
