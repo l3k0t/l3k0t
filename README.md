@@ -7,6 +7,7 @@
 *Programar é apenas uma das formas que encontrei para transformar ideias em soluções.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3k0t?tab=repositories)
+[![Discord](https://img.shields.io/badge/Discord-Contato_oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZZmCU2KUNE)
 [![Mesa Azul](https://img.shields.io/badge/Mesa_Azul-Software_empresarial-1671B8?style=for-the-badge)](https://mesaazul.com.br)
 [![TibiaKing](https://img.shields.io/badge/TibiaKing-Histórico_público-C39B57?style=for-the-badge)](https://tibiaking.com/profile/76262-l3k0t/)
 [![OTClient V9](https://img.shields.io/badge/OTClient_V9-Acompanhar_projeto-433E7C?style=for-the-badge)](https://github.com/l3k0t/OTClient-V9-Showcase)
@@ -26,6 +27,18 @@ Minha trajetória passa pelo universo de **OTServ/Tibia**, onde desenvolvi e ada
 Gosto de atuar no ciclo completo: analisar um problema, definir uma solução, desenvolver, integrar APIs, instalar em hospedagens/VPS, configurar segurança, corrigir falhas e manter tudo funcionando.
 
 > **Tecnologia para mim vai além do código: envolve resolver problemas, criar produtos e proteger sistemas.**
+
+## 🌱 Minha história — persistência antes de experiência
+
+**Não comecei sabendo programar nem entendendo de computadores.** No início eu era muito leigo, curioso e cheio de vontade de aprender. Cometi muitos erros, danifiquei instalações do Windows e até computadores enquanto tentava descobrir como tudo funcionava. Também passei por sustos mexendo com hardware — experiências que me ensinaram a levar a segurança a sério.
+
+Não foi uma trajetória fácil nem linear. **Passei por um período pessoal muito difícil, sobre o qual prefiro não entrar em detalhes.** Essas experiências fazem parte da minha história, mas não definem tudo o que sou ou o que ainda posso construir.
+
+Foi a **persistência**, muito estudo, tentativa, correção de erros e disposição para recomeçar que me trouxeram até aqui. Da curiosidade por computadores, fui chegando ao desenvolvimento de software, infraestrutura, servidores, sistemas empresariais, segurança, automação e robótica.
+
+**Quero deixar um legado útil para vocês e para a comunidade:** transformar o que aprendi em soluções, trabalhos profissionais e conhecimento que eu também possa compartilhar voluntariamente. Não pretendo saber tudo; pretendo continuar aprendendo e ajudar outras pessoas a avançar.
+
+> *Se há algo que minha trajetória me ensinou, é que ninguém precisa começar sabendo tudo para aprender e construir algo que tenha valor.*
 
 ## 💼 Conhecimentos e áreas de atuação
 
@@ -108,6 +121,14 @@ Também atuei em **suporte e subadministração na comunidade TibiaKing**. Meu [
 
 ---
 
+## 🤝 Contato oficial pelo Discord
+
+Para falar comigo sobre projetos, serviços, ideias, integrações, suporte técnico ou colaboração, use meu **Discord oficial**:
+
+**💬 [Entrar em contato pelo Discord](https://discord.gg/ZZmCU2KUNE)**
+
+Antes de entrar em contato, explique de forma objetiva o que você precisa, o contexto do projeto e o que já foi tentado. Isso ajuda a aproveitar melhor o tempo de todos.
+
 ## 🤝 Contato profissional — respeito ao tempo
 
 **Meu tempo é valioso, assim como o seu.** Se for entrar em contato, peço **respeito, educação e clareza sobre o objetivo da conversa**. Tenho compromissos em diferentes projetos e atividades fora da programação.
@@ -116,7 +137,7 @@ Também atuei em **suporte e subadministração na comunidade TibiaKing**. Meu [
 
 <div align="center">
 
-[**Projetos no GitHub**](https://github.com/l3k0t?tab=repositories) · [**Mesa Azul**](https://mesaazul.com.br) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
+[**Discord — Contato**](https://discord.gg/ZZmCU2KUNE) · [**Projetos no GitHub**](https://github.com/l3k0t?tab=repositories) · [**Mesa Azul**](https://mesaazul.com.br) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
 
 ⭐ [**Favorite o OTClient V9 Showcase**](https://github.com/l3k0t/OTClient-V9-Showcase) e use **Watch** para acompanhar as atualizações.
 
