@@ -62,10 +62,13 @@ Foi a **persistência**, muito estudo, tentativa, correção de erros e disposi�
 
 Meu projeto/empresa de soluções para estabelecimentos, com desenvolvimento de **cardápio digital, recursos de gestão, plataformas multiempresa e automações operacionais**.
 
-### 🍔 Gestão de pedidos e integrações iFood
-Desenvolvimento de sistemas de **gestão para operações de delivery**, com uso de **APIs do ecossistema iFood**, processamento de pedidos, painéis, notificações e fluxos de automação. Inclui iniciativas de integração de **IA por API** para operações empresariais.
+### 🍔 FoodReply AI — plugin de integração com iFood
 
-*Descrição de trabalho próprio; não implica homologação, parceria oficial ou certificação não documentada.*
+Sou o desenvolvedor do **FoodReply AI**, um plugin/sistema de integração para operações de delivery, construído para trabalhar com **APIs do ecossistema iFood** e recursos de **inteligência artificial integrada por API**.
+
+O projeto envolve **recebimento e gestão de pedidos, tratamento de eventos e status, notificações, impressão térmica, fluxos de expedição e automações de atendimento**. Também faz parte da minha experiência em criação de plugins, desenvolvimento de integrações externas e soluções empresariais fora do universo OTServ.
+
+*Projeto de minha autoria. A descrição não implica parceria, homologação ou certificação oficial não documentada pelo iFood.*
 
 ### 🧾 Gestão comercial, serviços e aplicações web
 Experiência com **PDV, controle de estoque, cardápios, cupons, relatórios, bancos de dados, sites empresariais, automações e integrações financeiras**. Desenvolvo soluções para **diferentes setores**, não apenas jogos. Alguns desses projetos são privados, internos ou ainda estão em desenvolvimento.
