@@ -56,19 +56,6 @@ Through **persistence**, study, trial and error, fixing mistakes, and starting o
 
 ## Business projects
 
-### 🔷 Mesa Azul — digital menus and business management
-**Mesa Azul project**
-
-My own company/project focused on digital menus, management tools, multi-tenant systems, subscriptions and operational automation for establishments.
-
-### 🍔 FoodReply AI — iFood integration plugin
-
-I developed **FoodReply AI**, a plugin/integration system for delivery operations, designed to work with **iFood ecosystem APIs** and **AI capabilities integrated through APIs**.
-
-The project covers **order reception and management, event and status handling, notifications, thermal printing, dispatch workflows, and customer-service automation**. It reflects my experience building plugins, integrating external services, and developing business software beyond OTServ.
-
-*This is my independent project. The description does not imply any undocumented official iFood partnership, approval, or certification.*
-
 ### 🧾 Custom software and services
 I work on **business websites, point-of-sale systems, inventory, reporting, databases, dashboards, integrations, hosting setups, and software maintenance**. Some projects are private, internal or still under development.
 
