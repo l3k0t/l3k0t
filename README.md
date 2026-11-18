@@ -1,6 +1,10 @@
 <div align="center">
 
+<img width="100%" alt="Animated blue and gold header" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B132B,50:173B5E,100:C69A56&amp;height=155&amp;section=header&amp;animation=fadeIn" />
+
 # ⚡ L3K0T
+
+<img alt="Animação de texto: Desenvolvimento Full-Stack, APIs, IA, automação, segurança, robótica e jogos" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=67C4EF&amp;center=true&amp;vCenter=true&amp;width=830&amp;height=56&amp;lines=Full-Stack+Developer+%7C+Linux;APIs+%7C+IA+%7C+Automacao;Seguranca+%7C+Robotica+%7C+Hardware;Game+Development+%7C+Software" />
 
 **DESENVOLVIMENTO DE SOFTWARE · SEGURANÇA · LINUX · AUTOMAÇÃO · ROBÓTICA · HARDWARE · GAMES**
 
@@ -157,5 +161,8 @@ Antes de entrar em contato, explique de forma objetiva o que você precisa, o co
 ⭐ [**Favorite o OTClient V9 Showcase**](https://github.com/l3k0t/OTClient-V9-Showcase) e use **Watch** para acompanhar as atualizações.
 
 **L3K0T · Software, sistemas empresariais, segurança, robótica e tecnologia.**
+
+
+<img width="100%" alt="Blue and gold waving footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C69A56,50:173B5E,100:0B132B&amp;height=90&amp;section=footer" />
 
 </div>
