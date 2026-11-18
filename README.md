@@ -2,7 +2,7 @@
 
 # ⚡ L3K0T
 
-**DESENVOLVIMENTO DE SOFTWARE · SEGURANÇA · LINUX · AUTOMAÇÃO · ROBÓTICA · GAMES**
+**DESENVOLVIMENTO DE SOFTWARE · SEGURANÇA · LINUX · AUTOMAÇÃO · ROBÓTICA · HARDWARE · GAMES**
 
 *Programar é apenas uma das formas que encontrei para transformar ideias em soluções.*
 
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Quem sou eu
 
-Sou **L3K0T**, desenvolvedor e criador de soluções tecnológicas com atuação em diferentes áreas: **software empresarial, sites, sistemas web, plugins, APIs, inteligência artificial integrada, infraestrutura, cibersegurança, jogos, automação e robótica**.
+Sou **L3K0T**, desenvolvedor e criador de soluções tecnológicas com atuação em diferentes áreas: **software empresarial, sites, sistemas web, plugins, APIs, inteligência artificial integrada, infraestrutura, cibersegurança, jogos, automação, robótica e estudos de mineração de criptomoedas**.
 
 Minha trajetória passa pelo universo de **OTServ/Tibia**, onde desenvolvi e adaptei sistemas, clientes e servidores; mas **não trabalho somente com OTServ e não vivo exclusivamente de programação**. Também tenho iniciativas empresariais e projetos independentes, incluindo trabalhos práticos e interesses em **robótica, hardware e tecnologia aplicada**.
 
@@ -53,6 +53,7 @@ Foi a **persistência**, muito estudo, tentativa, correção de erros e disposi�
 | **Criptografia** | Uso de **AES-256-GCM** para criptografia autenticada e atenção à proteção de dados e gestão de chaves |
 | **Games e OTServ** | C++, Lua, OTUI, TFS, OTX, Canary, OTClient, launchers, sprites, scripts, mapa, protocolos e hospedagem |
 | **Robótica e projetos independentes** | Interesse e desenvolvimento de iniciativas envolvendo eletrônica, automação, hardware e soluções fora do software convencional |
+| **Mineração de criptomoedas e hardware** | Estudos de mineração de **Monero (XMR)**, dispositivos **Bitaxe**, outras moedas, análise de desempenho de CPU/GPU/ASIC, hashrate, consumo energético, eficiência, refrigeração e monitoramento |
 | **Conteúdo e criação digital** | Projetos de YouTube, conteúdo sobre tecnologia, divulgação, design de interfaces e experimentação com ferramentas criativas |
 
 ## 🏢 Projetos próprios e sistemas empresariais
@@ -77,6 +78,18 @@ Tenho interesse de longa data no caminho do **hacker ético / hacker do bem**: e
 Trabalho com **configuração de hospedagens, instalações de aplicações, serviços Linux, redes, servidores web, HTTPS, acesso a dados e diagnóstico de problemas**. Também utilizo **AES-256-GCM** em projetos que exigem criptografia autenticada.
 
 *O uso desse algoritmo não representa, por si só, certificação governamental ou auditoria de segurança.*
+
+## ⛏️ Mineração de criptomoedas e desempenho de hardware
+
+Também estudo sistemas e tecnologias ligados à **mineração de criptomoedas**, com atenção à relação entre desempenho computacional, eficiência energética e confiabilidade das máquinas.
+
+- **Monero (XMR):** familiaridade com mineração baseada em processamento computacional, características de CPU e avaliação de desempenho.
+- **Bitaxe:** conhecimento e interesse em dispositivos dedicados à mineração de Bitcoin, suas características técnicas e métricas de operação.
+- **Outras criptomoedas:** pesquisa de diferentes algoritmos, arquiteturas de hardware e necessidades de processamento.
+- **Desempenho de máquinas:** análise de **hashrate, consumo em watts, temperatura, estabilidade e custo operacional** para entender o melhor equilíbrio entre desempenho e eficiência.
+- **Software e monitoramento:** interesse no desenvolvimento e na integração de ferramentas de análise, painéis, métricas e automações para acompanhar equipamentos.
+
+**Meu foco técnico nessa área é entender o funcionamento do hardware e do software, medir resultados e estudar otimizações com segurança.** Isso faz parte dos meus conhecimentos em Linux, sistemas, automação e infraestrutura — não é uma promessa de rentabilidade financeira.
 
 ## 🎮 OTServ, jogos e comunidade
 
