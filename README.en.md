@@ -1,6 +1,10 @@
 <div align="center">
 
+<img width="100%" alt="Animated blue and gold header" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B132B,50:173B5E,100:C69A56&amp;height=155&amp;section=header&amp;animation=fadeIn" />
+
 # ⚡ L3K0T
+
+<img alt="Animated typing text: Full-Stack, APIs, AI, automation, security, robotics, and game development" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=67C4EF&amp;center=true&amp;vCenter=true&amp;width=830&amp;height=56&amp;lines=Full-Stack+Developer+%7C+Linux;APIs+%7C+AI+%7C+Automation;Security+%7C+Robotics+%7C+Hardware;Game+Development+%7C+Software" />
 
 ### Software Developer · Full-Stack · Linux & Security · Automation · Robotics · Hardware · Games
 
@@ -131,5 +135,8 @@ I'm not interested in insults, harassment, or conversations intended only to was
 ⭐ [**Star OTClient V9 Showcase**](https://github.com/l3k0t/OTClient-V9-Showcase) and enable **Watch** for future updates.
 
 **L3K0T · Software · Business Systems · Security · Robotics · Technology**
+
+
+<img width="100%" alt="Blue and gold waving footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C69A56,50:173B5E,100:0B132B&amp;height=90&amp;section=footer" />
 
 </div>
