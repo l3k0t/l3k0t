@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3k0t?tab=repositories)
 [![Discord](https://img.shields.io/badge/Discord-Contato_oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZZmCU2KUNE)
-[![Mesa Azul](https://img.shields.io/badge/Mesa_Azul-Software_empresarial-1671B8?style=for-the-badge)](https://mesaazul.com.br)
 [![TibiaKing](https://img.shields.io/badge/TibiaKing-Histórico_público-C39B57?style=for-the-badge)](https://tibiaking.com/profile/76262-l3k0t/)
 [![OTClient V9](https://img.shields.io/badge/OTClient_V9-Acompanhar_projeto-433E7C?style=for-the-badge)](https://github.com/l3k0t/OTClient-V9-Showcase)
 
@@ -59,7 +58,7 @@ Foi a **persistência**, muito estudo, tentativa, correção de erros e disposi�
 ## 🏢 Projetos próprios e sistemas empresariais
 
 ### 🔷 Mesa Azul — cardápio digital e software para negócios
-**[mesaazul.com.br](https://mesaazul.com.br)**
+**Projeto Mesa Azul**
 
 Meu projeto/empresa de soluções para estabelecimentos, com desenvolvimento de **cardápio digital, recursos de gestão, plataformas multiempresa e automações operacionais**.
 
@@ -150,7 +149,7 @@ Antes de entrar em contato, explique de forma objetiva o que você precisa, o co
 
 <div align="center">
 
-[**Discord — Contato**](https://discord.gg/ZZmCU2KUNE) · [**Projetos no GitHub**](https://github.com/l3k0t?tab=repositories) · [**Mesa Azul**](https://mesaazul.com.br) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
+[**Discord — Contato**](https://discord.gg/ZZmCU2KUNE) · [**Projetos no GitHub**](https://github.com/l3k0t?tab=repositories) · [**TibiaKing**](https://tibiaking.com/profile/76262-l3k0t/)
 
 ⭐ [**Favorite o OTClient V9 Showcase**](https://github.com/l3k0t/OTClient-V9-Showcase) e use **Watch** para acompanhar as atualizações.
 
