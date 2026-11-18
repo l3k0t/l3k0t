@@ -2,7 +2,7 @@
 
 # ⚡ L3K0T
 
-### Software Developer · Full-Stack · Linux & Security · Automation · Robotics · Games
+### Software Developer · Full-Stack · Linux & Security · Automation · Robotics · Hardware · Games
 
 *Programming is only one of the ways I turn ideas into practical solutions.*
 
@@ -19,7 +19,7 @@
 
 ## About me
 
-I'm **L3K0T**, a developer and technology creator working across **business software, web applications, APIs, plugins, AI integrations, Linux infrastructure, cybersecurity, game development, automation, and robotics**.
+I'm **L3K0T**, a developer and technology creator working across **business software, web applications, APIs, plugins, AI integrations, Linux infrastructure, cybersecurity, game development, automation, robotics, and cryptocurrency mining research**.
 
 I have over a decade of public activity in the **OTServ/Tibia** community, but my work goes far beyond games or coding. I also build and maintain solutions for **restaurants, delivery services, business operations, websites, and other industries**, and explore **robotics, electronics, and hardware** through independent projects.
 
@@ -48,6 +48,7 @@ Through **persistence**, study, trial and error, fixing mistakes, and starting o
 | **Ethical security** | Authorized security testing, configuration reviews, server and database protection, defensive hardening and **AES-256-GCM** authenticated encryption |
 | **Game development** | OTClient, Lua, C++, OTUI, TFS, OTX, Canary, launchers, scripts, sprite handling, tools and hosting |
 | **Robotics and independent projects** | Electronics, hardware, practical automation and technology experiments |
+| **Cryptocurrency mining and hardware** | Research into **Monero (XMR)** mining, **Bitaxe** devices, other coins, CPU/GPU/ASIC performance, hashrate, power efficiency, cooling and monitoring |
 | **Content creation** | YouTube projects, digital media, technical communication and creative tools |
 
 ## Business projects
@@ -70,6 +71,18 @@ I work on **business websites, point-of-sale systems, inventory, reporting, data
 A long-standing interest of mine is **ethical hacking**: researching how applications and databases can be secured, conducting security assessments **with permission**, and fixing weaknesses. I also deploy and maintain applications on Linux servers and use **AES-256-GCM** in projects requiring authenticated encryption.
 
 *Using a strong algorithm does not, by itself, mean government-level certification or an independent security audit.*
+
+## ⛏️ Cryptocurrency mining and hardware performance
+
+I also study **cryptocurrency mining systems** with a focus on computing performance, power efficiency, and reliable hardware operation.
+
+- **Monero (XMR):** familiarity with compute-based mining, CPU characteristics, and performance assessment.
+- **Bitaxe:** knowledge of and interest in dedicated Bitcoin mining devices, hardware specifications, and operating metrics.
+- **Other cryptocurrencies:** research into mining algorithms, hardware architectures, and computing requirements.
+- **Machine performance:** analysis of **hashrate, power consumption, temperatures, stability, and operating costs** to understand the balance between performance and efficiency.
+- **Software and monitoring:** interest in software tools, metrics dashboards, monitoring integrations, and automation for equipment analysis.
+
+**My technical interest is understanding the hardware and software, measuring results, and studying safe optimizations.** This work complements my background in Linux, automation, software and infrastructure; it is not a claim about mining profitability.
 
 ## Games and OTServ community
 
